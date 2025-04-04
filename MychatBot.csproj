@@ -28,4 +28,12 @@
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include=".github\workflows\main.yml\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include=".github\workflows\ci.yml" />
+	</ItemGroup>
 </Project>
