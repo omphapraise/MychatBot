@@ -223,6 +223,7 @@ _____       _                                      _ _
                     TypeWithAnimation("Please enter a command or question. Type 'help' for options.", 10, 30);
                     continue;
                 }
+                // Author: Ompha Mabila
 
                 switch (input)
                 {
